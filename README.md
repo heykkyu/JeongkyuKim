@@ -1,6 +1,23 @@
 <img width="924" alt="Screen Shot 2021-08-13 at 3 04 33 PM" src="https://user-images.githubusercontent.com/46082226/129312263-bf4a9cd5-18a4-4dc9-ab77-e632034691b2.png">
-<img src="https://img.shields.io/static/v1?label=message=React.js&color=blue" alt="badge" />
-# Jeongkyu Kim
+<h3 align="center">📚 Technology Stack 📚</h3>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-REACT.JS-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-VUE.JS-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-SCSS-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-navy"/>
+  <br>
+  <img src="https://img.shields.io/badge/-LARAVEL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-ANGULAR.JS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-my-sql-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-GIT-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Photoshop-black"/>&nbsp
+</p>
+
+<h3 align="center">•••</h3>
+<p align="center">
+  <a href="mailto:heykkyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heykkyu@gmail.com"/></a>
+</p>
 
 ## WHO AM I
 A detail-oriented front-end developer with 4 years experience building and maintaining responsive websites in the e-commerce industry. Proficient in JavaScript, CSS, HTM and Vue.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.
@@ -17,9 +34,9 @@ A detail-oriented front-end developer with 4 years experience building and maint
 </p>
 
 ## WORK EXPERIENCE
-**Keymedi** SEOUL, KOREA
-**FrontEnd Developer**, Freelancer / 2021.03 - 2021.08
-used: make whole new project with React.js, Mobx, SCSS, styled-components 
+<p>**Keymedi** SEOUL, KOREA</p>
+<p>**FrontEnd Developer**, Freelancer / 2021.03 - 2021.08</p>
+<pused: make whole new project with React.js, Mobx, SCSS, styled-components </p>
 
 **Mobile Doctor** SEOUL, KOREA
 **FrontEnd Developer**, Freelancer / 2020.11 - 2021.03
