@@ -19,7 +19,7 @@
 <p align="center">
   <a href="mailto:heykkyu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heykkyu@gmail.com"/></a>&nbsp;
   <a href="//www.linkedin.com/in/heykkyu" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue" alt="linkedin" /></a>&nbsp;
-   <a href="//blog.naver.com/heysiki target="_blank""> <img src="https://img.shields.io/badge/-blog-green" alt="blog" /></a>
+   <a href="//blog.naver.com/heysiki" target="_blank"> <img src="https://img.shields.io/badge/-blog-green" alt="blog" /></a>
 </p>
 
 ##
