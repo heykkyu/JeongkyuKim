@@ -28,26 +28,26 @@ A detail-oriented front-end developer with 4 years experience building and maint
 
 ##
 ## WORK EXPERIENCE
-### **키메디, Keymedi** SEOUL, KOREA 
+### **키메디 Keymedi**, SEOUL, KOREA 
 - **FrontEnd Developer**
 - Freelancer / 2021.03 - 2021.08 
 - a company that services a closed site that provides medical-related content like webinars, live and vod contents.
 - **used**: React.js, Mobx, SCSS, styled-components 
 
-### **모바일 닥터, Mobile Doctor** SEOUL, KOREA
+### **모바일 닥터 Mobile Doctor**, SEOUL, KOREA
 - **FrontEnd Developer**
 - Freelancer / 2020.11 - 2021.03
 - a company for doctors and patients for medical video chat service.
 - **used**: React.js, Redux, SCSS, styled-components 
 
-### **루나소프트, LUNASOFT** SEOUL, KOREA
+### **루나소프트 LUNASOFT**, SEOUL, KOREA
 - **FrontEnd Developer**
 - Full-Time / 2017.11 - 2020.08
 - a partner of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
 - **used**: Vue.js, Laravel and SCSS
 - https://lunasoft.co.kr
 
-### **데브시스터즈, DEVSISTERS** SEOUL, KOREA
+### **데브시스터즈 DEVSISTERS**, SEOUL, KOREA
 - **FrontEnd Developer**
 - Freelancer / 2019.08 - 2019.09
 - a mobile game company
@@ -56,13 +56,13 @@ A detail-oriented front-end developer with 4 years experience building and maint
 
 ##
 ## EDUCATION
-### SANGMYUNG UNVERSITY CHEONAN, KOREA
+### SANGMYUNG UNVERSITY, CHEONAN, KOREA
 - 2011.03 - 2017.08
 - Business and Industrial Engineering
 - 4.1 / 4.5 Scores
 - https://www.smu.ac.kr/eng1
 
-### UNIVERSITY OF MISSOURI ST.LOUIS ST.LOUIS, UNITED SATES
+### UNIVERSITY OF MISSOURI ST.LOUIS, SAINT LOUIS, MISSOURI, UNITED SATES
 - 2015.08 - 2016.05
 - 1 Year Exchange Student Program
 - https://www.umsl.edu  
