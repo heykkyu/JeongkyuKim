@@ -16,22 +16,33 @@ A detail-oriented front-end developer with 4 years experience building and maint
 </p>
 
 ## WORK EXPERIENCE
-- **Keymedi** SEOUL, KOREA
-- **FrontEnd Developer**, Freelancer / 2021.03 - 2021.08
-- responsible for
-  - make whole new project with React.js, Mobx, SCSS, styled-components 
+**Keymedi** SEOUL, KOREA
+**FrontEnd Developer**, Freelancer / 2021.03 - 2021.08
+used: make whole new project with React.js, Mobx, SCSS, styled-components 
 
-- **Mobile Doctor** SEOUL, KOREA
-- **FrontEnd Developer**, Freelancer / 2020.11 - 2021.03
-- responsible for
-  - make whole new project with React.js, Redux, SCSS, styled-components 
+**Mobile Doctor** SEOUL, KOREA
+**FrontEnd Developer**, Freelancer / 2020.11 - 2021.03
+used: make whole new project with React.js, Redux, SCSS, styled-components 
 
-- **LUNASOFT** SEOUL, KOREA
-- **FrontEnd Developer**, Full-Time / 2017.11 - 2020.08
-- Lunasoft is a partner company of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
-- https://lunasoft.co.kr
+**LUNASOFT** SEOUL, KOREA
+**FrontEnd Developer**, Full-Time / 2017.11 - 2020.08
+Lunasoft is a partner company of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
+https://lunasoft.co.kr
 
-- **DEVSISTERS** SEOUL, KOREA
-- **FrontEnd Developer**, Freelancer / 2019.08 - 2019.09
-- DevSisters Inc. is a mobile game company
-- https://cookierunfont.com
+**DEVSISTERS** SEOUL, KOREA
+**FrontEnd Developer**, Freelancer / 2019.08 - 2019.09
+DevSisters Inc. is a mobile game company
+https://cookierunfont.com
+
+
+## EDUCATION
+### SANGMYUNG UNVERSITY CHEONAN, KOREA
+2011.03 - 2017.08
+Business and Industrial Engineering
+4.1 / 4.5 Scores
+https://www.smu.ac.kr/eng1
+
+### UNIVERSITY OF MISSOURI ST.LOUIS ST.LOUIS, UNITED SATES
+2015.08 - 2016.05
+1 Year Exchange Student Program
+https://www.umsl.edu
