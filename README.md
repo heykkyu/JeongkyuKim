@@ -38,7 +38,7 @@ A detail-oriented front-end developer with 4 years experience building and maint
 - **FrontEnd Developer**
 - Freelancer / 2020.11 - 2021.03
 - a company for doctors and patients for medical video chat service.
-- **used**: React.js, Redux, SCSS, styled-components 
+- **used**: React.js, Redux-saga, WEB-RTC, SCSS, styled-components 
 
 ### **루나소프트 LUNASOFT**, SEOUL, KOREA
 - **FrontEnd Developer**
