@@ -11,7 +11,10 @@
   <img src="https://img.shields.io/badge/-ANGULAR.JS-blue" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-mysql-blue" alt="badge"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-GIT-black" alt="badge"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-black" alt="badge"/>&nbsp
+  <img src="https://img.shields.io/badge/-Slack-black" alt="badge"/>&nbsp
+  <img src="https://img.shields.io/badge/-Teams-black" alt="badge"/>&nbsp
+  <img src="https://img.shields.io/badge/-Jira-black" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-Photoshop-black" alt="badge"/>&nbsp
 </p>
 
@@ -28,30 +31,98 @@ A detail-oriented front-end developer with 4 years experience building and maint
 
 ##
 ## WORK EXPERIENCE
-### **키메디 Keymedi**, SEOUL, KOREA 
-- **FrontEnd Developer**
-- Freelancer / 2021.03 - 2021.08 
-- a company that services a closed site that provides medical-related content like webinars, live and vod contents.
-- **used**: React.js, Mobx, SCSS, styled-components 
+### 🟦 **키메디 Keymedi**, SEOUL, KOREA 
+A company that services a closed site that provides medical-related content like webinars, live and vod contents.
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Period</strong></td>
+      <td>2021.03 - 2021.08</td>
+    </tr>
+    <tr>
+      <td><strong>Position</strong></td>
+      <td>FrontEnd Developer, Freelancer</td>
+    </tr>
+    <tr>
+      <td><strong>Projects</strong></td>
+      <td>Make whole new</td>
+    </tr>
+  </tbody>
+</table>
 
-### **모바일 닥터 Mobile Doctor**, SEOUL, KOREA
-- **FrontEnd Developer**
-- Freelancer / 2020.11 - 2021.03
-- a company for doctors and patients for medical video chat service.
-- **used**: React.js, Redux-saga, WEB-RTC, SCSS, styled-components 
+#### Project
+- React 및 Mobx를 통한 상태관리 데이터를 사용하 신규 페이지 구축
+- Live 방송 카운트 다운 구현과 상태값을 useEffect를 사용하여 페이지 전환 및 socket을 통한 실시간 채팅 기능 구현
+- **사용기술**: React.js, Mobx, socket, SCSS, styled-components, moment.js
 
-### **루나소프트 LUNASOFT**, SEOUL, KOREA
-- **FrontEnd Developer**
-- Full-Time / 2017.11 - 2020.08
-- a partner of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
-- **used**: Vue.js, Laravel and SCSS
+
+### 🔵 **모바일 닥터 Mobile Doctor**, SEOUL, KOREA
+A company for doctors and patients for medical video chat service.
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Period</strong></td>
+      <td>2020.11 - 2021.03</td>
+    </tr>
+    <tr>
+      <td><strong>Position</strong></td>
+      <td>FrontEnd Developer, Freelancer</td>
+    </tr>
+    <tr>
+      <td><strong>Projects</strong></td>
+      <td>Make whole new</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Project
+- 의료인과 환자들을 연결하느 socket 및 web-rtc를 사용하여 화상채팅 기능 구현
+- 의료인 중심의 PC Site와 환자 중심의 Mobile 사이트를 각각 구현
+- **사용기술**: React.js, Redux-saga,socket, WEB-RTC, SCSS, styled-components, moment.js
+
+### 🔵 **루나소프트 LUNASOFT**, SEOUL, KOREA
+A partner of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Period</strong></td>
+      <td>2017.11 - 2020.08</td>
+    </tr>
+    <tr>
+      <td><strong>Position</strong></td>
+      <td>FrontEnd Developer, Full-Time</td>
+    </tr>
+    <tr>
+      <td><strong>Projects</strong></td>
+      <td>Make a new site</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Project
+- **사용기술**: Vue.js, Laravel and SCSS
 - https://lunasoft.co.kr
 
-### **데브시스터즈 DEVSISTERS**, SEOUL, KOREA
-- **FrontEnd Developer**
-- Freelancer / 2019.08 - 2019.09
-- a mobile game company
-- **used**: Vue.js, fullpage.js and SCSS
+### 🔵 **데브시스터즈 DEVSISTERS**, SEOUL, KOREA
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Period</strong></td>
+      <td>2019.08 - 2019.09</td>
+    </tr>
+    <tr>
+      <td><strong>Position</strong></td>
+      <td>FrontEnd Developer, Freelancer</td>
+    </tr>
+    <tr>
+      <td><strong>Projects</strong></td>
+      <td>Make a new site</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Project
+- **사용기술**: Vue.js, fullpage.js and SCSS
 - https://cookierunfont.com  
 
 ##
@@ -67,6 +138,3 @@ A detail-oriented front-end developer with 4 years experience building and maint
 - 1 Year Exchange Student Program
 - https://www.umsl.edu  
 
-##
-## PROJECT
-- ... in typing now
