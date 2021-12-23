@@ -138,3 +138,6 @@ A partner of Kakao & Naver with leading to design and develop conversational exp
 - 1 Year Exchange Student Program
 - https://www.umsl.edu  
 
+
+![IMG_1646](https://user-images.githubusercontent.com/46082226/147208150-cef38bac-2da5-4979-a519-0d5e070a0cc6.JPG)
+
