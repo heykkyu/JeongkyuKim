@@ -31,7 +31,7 @@ A detail-oriented front-end developer experience building and maintaining respon
 
 ##
 ## WORK EXPERIENCE
-###  **키메디 Keymedi**, SEOUL, KOREA 
+###  [**키메디 Keymedi**, SEOUL, KOREA]
 A company that services a closed site that provides medical-related content like webinars, live and vod contents.
 
 #### Project
@@ -40,7 +40,7 @@ A company that services a closed site that provides medical-related content like
 - **사용기술**: React.js, Mobx, socket, SCSS, styled-components, moment.js
 
 
-###  **모바일 닥터 Mobile Doctor**, SEOUL, KOREA
+###  [**모바일 닥터 Mobile Doctor**, SEOUL, KOREA]
 A company for doctors and patients for medical video chat service.
 
 
@@ -49,7 +49,7 @@ A company for doctors and patients for medical video chat service.
 - 의료인 중심의 PC Site와 환자 중심의 Mobile 사이트를 각각 구현
 - **사용기술**: React.js, Redux-saga,socket, WEB-RTC, SCSS, styled-components, moment.js
 
-###  **루나소프트 LUNASOFT**, SEOUL, KOREA
+###  [**루나소프트 LUNASOFT**, SEOUL, KOREA]
 A partner of Kakao & Naver with leading to design and develop conversational experiences across mobile, web and chatbots in Korea.
 
 
@@ -57,7 +57,7 @@ A partner of Kakao & Naver with leading to design and develop conversational exp
 - **사용기술**: Vue.js, Laravel and SCSS
 - https://lunasoft.co.kr
 
-###  **데브시스터즈 DEVSISTERS**, SEOUL, KOREA
+###  [**데브시스터즈 DEVSISTERS**, SEOUL, KOREA]
 
 
 #### Project
