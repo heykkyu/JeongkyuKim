@@ -1,4 +1,4 @@
-<img algin="center" width="924" alt="Screen Shot 2021-08-13 at 3 04 33 PM" src="https://user-images.githubusercontent.com/46082226/129312263-bf4a9cd5-18a4-4dc9-ab77-e632034691b2.png">
+![IMG_1646](https://user-images.githubusercontent.com/46082226/147208150-cef38bac-2da5-4979-a519-0d5e070a0cc6.JPG)
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-brighten" alt="badge"/>&nbsp
@@ -27,7 +27,7 @@
 
 ##
 ## Jeongkyu Kim
-A detail-oriented front-end developer with 4 years experience building and maintaining responsive websites in the e-commerce industry including B2C and B2B. Proficient in JavaScript, CSS, HTML, Vue.js and React.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.  
+A detail-oriented front-end developer experience building and maintaining responsive websites in the e-commerce industry including B2C and B2B. Proficient in JavaScript, CSS, HTML, Vue.js and React.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.  
 
 ##
 ## WORK EXPERIENCE
@@ -78,5 +78,5 @@ A partner of Kakao & Naver with leading to design and develop conversational exp
 - https://www.umsl.edu  
 
 
-![IMG_1646](https://user-images.githubusercontent.com/46082226/147208150-cef38bac-2da5-4979-a519-0d5e070a0cc6.JPG)
+
 
