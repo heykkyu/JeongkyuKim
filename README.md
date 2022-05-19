@@ -29,7 +29,7 @@
 ## Jeongkyu Kim
 A detail-oriented front-end developer experience building and maintaining responsive websites in the e-commerce industry including B2C and B2B. Proficient in JavaScript, CSS, HTML, Vue.js and React.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.  
 
-##
+<!-- ##
 ## WORK EXPERIENCE
 ###  [**키메디 Keymedi**, SEOUL, KOREA]
 A company that services a closed site that provides medical-related content like webinars, live and vod contents.
@@ -75,7 +75,7 @@ A partner of Kakao & Naver with leading to design and develop conversational exp
 ### UNIVERSITY OF MISSOURI ST.LOUIS, SAINT LOUIS, MISSOURI, UNITED SATES
 - 2015.08 - 2016.05
 - 1 Year Exchange Student Program
-- https://www.umsl.edu  
+- https://www.umsl.edu   -->
 
 
 
