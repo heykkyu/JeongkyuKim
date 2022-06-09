@@ -31,11 +31,11 @@
 A detail-oriented front-end developer experience building and maintaining responsive websites in the e-commerce industry including B2C and B2B. Proficient in JavaScript, CSS, HTML, Vue.js and React.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.  
 
 <br></br>
-<br></br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/heykkyu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" ></a>
 </p>
 
+<br></br>
 <!-- ##
 ## WORK EXPERIENCE
 ###  [**키메디 Keymedi**, SEOUL, KOREA]
