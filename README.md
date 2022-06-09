@@ -1,4 +1,4 @@
-![IMG_1646](https://user-images.githubusercontent.com/46082226/147208150-cef38bac-2da5-4979-a519-0d5e070a0cc6.JPG)
+<h1 align="center">Jeongkyu Kim 👋</h1>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-brighten" alt="badge"/>&nbsp
@@ -15,19 +15,26 @@
   <img src="https://img.shields.io/badge/-Slack-black" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-Teams-black" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-Jira-black" alt="badge"/>&nbsp
+  <img src="https://img.shields.io/badge/-Figma-black" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-Photoshop-black" alt="badge"/>&nbsp
 </p>
 
-<h3 align="center">•••</h3>
 <p align="center">
   <a href="mailto:heykkyu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heykkyu@gmail.com"/></a>&nbsp;
   <a href="//www.linkedin.com/in/heykkyu" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue" alt="linkedin" /></a>&nbsp;
    <a href="//blog.naver.com/heysiki" target="_blank"> <img src="https://img.shields.io/badge/-blog-green" alt="blog" /></a>
 </p>
 
-##
-## Jeongkyu Kim
+<h3 align="center">•••</h3>
+
+<br></br>
 A detail-oriented front-end developer experience building and maintaining responsive websites in the e-commerce industry including B2C and B2B. Proficient in JavaScript, CSS, HTML, Vue.js and React.js. Passionate about creating better UI/UX page for target customers and improving page with restful API and projects structure.  
+
+<br></br>
+<br></br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/heykkyu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" ></a>
+</p>
 
 <!-- ##
 ## WORK EXPERIENCE
